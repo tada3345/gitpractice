@@ -11,7 +11,7 @@ int main(void){
     int temp = x;
     x=y;
     y=temp;
-
+//swapping is over
 
     printf("x is %i\n", x);
     printf("y is %i\n", y);
